@@ -1,4 +1,4 @@
-# UseYara
+# UseYaraPortable
 
 How to use a portable yara-scanner.
 
